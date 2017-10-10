@@ -1,0 +1,7 @@
+vowels = 'aeiouAEIOU'
+count = 0
+string = row input ("enter a vowel")
+for = i in the string
+if i in the vowels
+count t =1
+print(count)
